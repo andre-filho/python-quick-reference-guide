@@ -1,5 +1,6 @@
 # Python Quick Reference Guide
 Learning Python by code samples.
+
 **Inspired by:** [Ruby Quick Reference Guide](https://github.com/FabriDamazio/Ruby-Quick-Reference-Guide)
 
 ## Table of Contents
@@ -28,9 +29,8 @@ Learning Python by code samples.
 * [Tests](TODO)
 * [External References](TODO)
 
-<!-- topic idea? put it above :) -->
-* [Keywords](#keywords)
-* [Our Heroes](#Our Heroes)
+* [Keywords](TODO)
+* [Our Heroes](#our-heroes)
 
 
 ---
@@ -58,3 +58,11 @@ Learning Python by code samples.
 ---
 
 ## Data Types
+
+
+## Our Heroes
+Here is a list of all who helped make this possible:
+
+| Name | GitHub |
+| :--: | :----: |
+| André de Sousa | @andre-filho |
